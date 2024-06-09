@@ -1,13 +1,13 @@
-package com.springboot2716.springboot2716;
+package com.club.start;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Springboot2716Application {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Springboot2716Application.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }
